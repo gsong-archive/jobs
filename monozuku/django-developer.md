@@ -30,7 +30,7 @@ Looking for Portland, Oregon locals or remote developers.
 
 ### Bonus
 
-* Building production-ready Angular front-ends
+* Building production-ready Angular front-ends ✨
 
 ## Non-technical Skills You're Good At
 

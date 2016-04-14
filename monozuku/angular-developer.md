@@ -29,8 +29,8 @@ Looking for Portland, Oregon locals or remote developers.
 
 ### Bonus
 
-* Using the new component router
-* Using Django REST Framework to build the API server
+* Using the new component router 👍🏼
+* Using Django REST Framework to build the API server 💪
 
 ## Non-technical Skills You're Good At
 
