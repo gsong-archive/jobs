@@ -19,26 +19,33 @@ You should be able to contribute at least 15–20 hours each week. Starting rate
 
 Looking for Portland, Oregon locals or remote developers.
 
-## You're Good At
+## Technical Stuff You're Good At
 
 * Knowing how to use both class-based and function-based views
 * Using migrations properly
 * Making project related CLI utilities
 * Following PEP 8
-* Understanding what's important to test, and what's not
 * Writing tests using pytest
+* Understanding what's important to test, and what's not
+
+### Bonus
+
+* Building production-ready Angular front-ends
+
+## Non-technical Stuff You're Good At
+
 * Working steadily toward a milestone, instead of cramming everything in the last second
 * Providing weekly project updates
-* Communicating your needs in order to be successful on your projects
-* Pointing out stuff that doesn't make sense in the UI
-* Piping up if you see that something can be improved
+* Communicating your needs in order to be successful
+* Piping up if you see something that can be improved
+* Pointing out stuff that doesn't make sense
 
 ## How Our Projects Are Set Up
 
 * You know how to use Git, right? We rely heavily on pull requests for code reviews and to keep our code deployable at all times.
-* We develop on the Mac and deploy on Linux. So preferably, you're developing on a Mac as well.
-* We isolate our development environments using pyenv, nvm, etc.
-* You shouldn't be afraid of installing Python, Node, Ruby and any packages we need for the projects.
+* We develop on the Mac and deploy on Linux. So you must be able to play nicely.
+* We isolate our development environments using nvm, pyenv, etc.
+* You shouldn't be afraid of installing Python, Node, Ruby and any packages needed for the projects.
 * You must not be afraid of Terminal. We use command line based tools for development and build processes. We'll help you with set up and provide instructions as needed.
 
 ## Project Collaboration Tools We Use
@@ -53,7 +60,3 @@ For remote voice communication, we use FaceTime, Skype, or Google Hangouts.
 Please send an up-to-date résumé (keep it short and relevant) and cover letter to <mailto:jobs@monozuku.com>.
 
 **No recruiters, please.**
-
-## P.S.
-
-If you know how to build using Angular, be sure to let us know.

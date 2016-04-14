@@ -19,24 +19,33 @@ You should be able to contribute at least 15–20 hours each week. Starting rate
 
 Looking for Portland, Oregon locals or remote developers.
 
-## You're Good At
+## Technical Stuff You're Good At
 
+* Writing ES6 or TypeScript
 * Writing component based Angular app
-* Using ui-router (bonus if you know how to use the new component router)
-* Using Bootstrap or Angular Material effectively, and do minor customizations via Sass
+* Using ui-router
+* Using UI Bootstrap or Angular Material effectively, and do minor customizations via Sass
 * Understanding what's important to test, and what's not
+
+### Bonus
+
+* Using the new component router
+* Using Django REST Framework to build the API server
+
+## Non-technical Stuff You're Good At
+
 * Working steadily toward a milestone, instead of cramming everything in the last second
 * Providing weekly project updates
-* Communicating your needs in order to be successful on your projects
-* Pointing out stuff that doesn't make sense in the UI
-* Piping up if you see that something can be improved
+* Communicating your needs in order to be successful
+* Piping up if you see something that can be improved
+* Pointing out stuff that doesn't make sense
 
 ## How Our Projects Are Set Up
 
 * You know how to use Git, right? We rely heavily on pull requests for code reviews and to keep our code deployable at all times.
-* We develop on the Mac and deploy on Linux. So preferably, you're developing on a Mac as well.
+* We develop on the Mac and deploy on Linux. So you must be able to play nicely.
 * We isolate our development environments using nvm, pyenv, etc.
-* You shouldn't be afraid of installing Python, Node, Ruby and any packages we need for the projects.
+* You shouldn't be afraid of installing Python, Node, Ruby and any packages needed for the projects.
 * You must not be afraid of Terminal. We use command line based tools for development and build processes. We'll help you with set up and provide instructions as needed.
 
 ## Project Collaboration Tools We Use
@@ -51,7 +60,3 @@ For remote voice communication, we use FaceTime, Skype, or Google Hangouts.
 Please send an up-to-date résumé (keep it short and relevant) and cover letter to <mailto:jobs@monozuku.com>.
 
 **No recruiters, please.**
-
-## P.S.
-
-If you know how to build using Django REST Framework, be sure to let us know.
