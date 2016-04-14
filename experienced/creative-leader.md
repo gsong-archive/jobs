@@ -30,7 +30,7 @@ Reality check:
 * There is no pay initially. As we start to become profitable (which we will pursue aggressively), the three of us will make joint decisions on fair compensation.
 * Since this is a bootstrapped effort, we will do majority of the work ourselves. We will outsource smartly but sparingly.
 
-Email us at <mailto:experience@damacy.net> and tell us:
+Email us at <mailto:experience@monozuku.com> and tell us:
 
 * How you're going to be an awesome part of this team!
 * About your design philosophy and journey.
