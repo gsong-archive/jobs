@@ -43,6 +43,8 @@ For remote voice communication, we use FaceTime, Skype, or Google Hangouts.
 
 Please send an up-to-date résumé (keep it short and relevant) and cover letter to <mailto:jobs@monozuku.com>.
 
+In the cover letter, specify your rate and hours available per week.
+
 ## P.S.
 
 If you know how to build using Django REST Framework, be sure to let us know.
