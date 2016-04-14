@@ -47,6 +47,8 @@ Please send an up-to-date résumé (keep it short and relevant) and cover letter
 
 In the cover letter, specify your rate and hours available per week.
 
+**No recruiters, please.**
+
 ## P.S.
 
 If you know how to build using Angular, be sure to let us know.
