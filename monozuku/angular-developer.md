@@ -19,7 +19,7 @@ You should be able to contribute at least 15–20 hours each week. Starting rate
 
 Looking for Portland, Oregon locals or remote developers.
 
-## Technical Stuff You're Good At
+## Technical Skills You're Good At
 
 * Writing ES6 or TypeScript
 * Writing component based Angular app
@@ -32,7 +32,7 @@ Looking for Portland, Oregon locals or remote developers.
 * Using the new component router
 * Using Django REST Framework to build the API server
 
-## Non-technical Stuff You're Good At
+## Non-technical Skills You're Good At
 
 * Working steadily toward a milestone, instead of cramming everything in the last second
 * Providing weekly project updates
