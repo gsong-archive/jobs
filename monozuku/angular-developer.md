@@ -7,9 +7,11 @@ Print Footer Right: %page of %total ● %date, %time
 
 # Contract Angular Developer
 
-Have you kept up to date with Angular 1.5/2.0? Do you use JSPM or Webpack? Can you adapt to and improve on an existing develop, build, and release system?
+Have you kept up to date with Angular 1.5/2.0? Do you use JSPM or Webpack? Can you adapt to and improve on an existing develop, build, and release system? Have you shipped non-trivial production code?
 
-If yes, then we want to talk to you.
+If yes, then we want to talk to you about working on a few of our projects for at least the next 2–3 months.
+
+You should be able to contribute at least 15–20 hours to the project each week. Starting rate of $70/hour, but will pay more if you are truly awesome.
 
 ## You're Good At
 
