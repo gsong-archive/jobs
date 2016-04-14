@@ -41,7 +41,7 @@ For remote voice communication, we use FaceTime, Skype, or Google Hangouts.
 
 ## Interested?
 
-Please send an up-to-date résumé and cover letter to <mailto:jobs@monozuku.com>.
+Please send an up-to-date résumé (keep it short and relevant) and cover letter to <mailto:jobs@monozuku.com>.
 
 ## P.S.
 
