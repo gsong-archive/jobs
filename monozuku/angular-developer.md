@@ -30,7 +30,6 @@ Looking for Portland, Oregon locals or remote developers.
 * Communicating your needs in order to be successful on your projects
 * Pointing out stuff that doesn't make sense in the UI
 * Piping up if you see that something can be improved
-* Vim. Just kidding. Well, sort of.
 
 ## How Our Projects Are Set Up
 
