@@ -9,9 +9,15 @@ Print Footer Right: %page of %total ● %date, %time
 
 Have you kept up to date with Angular 1.5/2.0? Do you use JSPM or Webpack? Can you adapt to and improve on an existing develop, build, and release system? Have you shipped non-trivial production code?
 
-If yes, then we want to talk to you about working on a few of our projects for at least the next 2–3 months.
+If yes, then we want to talk to you about working on a few of our client projects for at least the next 2–3 months:
 
-You should be able to contribute at least 15–20 hours to the project each week. Starting rate of $70/hour, but will pay more if you are truly awesome.
+* Telecommunications patent related analysis apps
+* Customer portal for an energy company
+* A pioneering micro-grant distribution and tracking app
+
+You should be able to contribute at least 15–20 hours each week. Starting rate of $70/hour, but will pay more if you are truly awesome.
+
+Looking for Portland, Oregon locals or remote developers.
 
 ## You're Good At
 
@@ -44,10 +50,6 @@ For remote voice communication, we use FaceTime, Skype, or Google Hangouts.
 ## Interested?
 
 Please send an up-to-date résumé (keep it short and relevant) and cover letter to <mailto:jobs@monozuku.com>.
-
-In the cover letter, specify your rate and hours available per week.
-
-We prefer working with Portland based developers, but are open to working with you remotely as well.
 
 **No recruiters, please.**
 
