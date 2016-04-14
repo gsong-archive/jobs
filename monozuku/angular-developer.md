@@ -45,6 +45,8 @@ Please send an up-to-date résumé (keep it short and relevant) and cover letter
 
 In the cover letter, specify your rate and hours available per week.
 
+We prefer working with Portland based developers, but are open to working with you remotely as well.
+
 **No recruiters, please.**
 
 ## P.S.
