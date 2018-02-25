@@ -1,0 +1,84 @@
+Contract Django Developer
+=========================
+
+Have you kept up to date with Django 1.9? Are you well versed with
+Django REST Framework? Can you adapt to and improve on an existing
+develop, build, and release system? Have you shipped non-trivial
+production code?
+
+If yes, then we want to talk to you about working on a few of our client
+projects for at least the next 2–3 months. These are some example
+projects:
+
+-  Telecommunications patent related analysis apps
+-  Customer portal for an energy company
+-  A pioneering micro-grant distribution and tracking app
+
+You should be able to contribute at least 15–20 hours each week. The
+starting rate is $70/hour, but we will pay more if you are truly
+awesome.
+
+Looking for Portland, Oregon locals or remote developers.
+
+Technical Skills You're Good At
+-------------------------------
+
+-  Knowing how to use both class-based and function-based views
+-  Using migrations properly
+-  Making project related CLI utilities
+-  Following PEP 8
+-  Writing tests using pytest
+-  Understanding what's important to test, and what's not
+
+Bonus
+~~~~~
+
+-  Building production-ready Angular front-ends
+
+Non-technical Skills You're Good At
+-----------------------------------
+
+-  Working steadily toward our agreed-upon goals, instead of cramming
+   everything in the last second
+-  Providing weekly project updates
+-  Communicating your needs in order to be successful
+-  Piping up if you see something that can be improved
+-  Pointing out stuff that doesn't make sense
+
+How Our Projects Are Set Up
+---------------------------
+
+-  We use Git and rely heavily on pull requests for code reviews and to
+   keep our code deployable at all times.
+-  We develop on the Mac and deploy on Linux, so your development
+   environment should play nicely.
+-  We isolate our development environments using nvm, pyenv, etc.
+-  You shouldn't be afraid of installing Python, Node, Ruby and any
+   packages needed for the projects.
+-  You are not afraid of Terminal since we use command line based tools
+   for development and build processes. We'll help you with set up and
+   provide instructions as needed.
+
+Project Collaboration Tools We Use
+----------------------------------
+
+Our main tools are Bitbucket, Slack, and Trello. You'll be expected to
+have accounts for and use all three.
+
+For remote voice communication, we use FaceTime, Skype, or Google
+Hangouts.
+
+Interested?
+-----------
+
+Please send an up-to-date résumé (keep it short and relevant) and cover
+letter to `mailto:jobs@monozuku.com <mailto:jobs@monozuku.com>`__.
+
+**No recruiters, please.**
+
+--------------
+
+We are an equal opportunity employer and value diversity at our company.
+We do not discriminate on the basis of race, religion, color, national
+origin, gender, sexual orientation, age, marital status, veteran status,
+or disability status.
